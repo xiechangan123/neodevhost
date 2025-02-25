@@ -204,7 +204,7 @@ a.tiles.mapbox.com
 a.union.mi.com
 a0.app.xiaomi.com
 a1.adform.net
-a1.mzstatic.com
+a1.m1fichier.com
 a1.sndcdn.com
 a1.soundcloud.com
 a1014.g.akamai.net
@@ -216,6 +216,7 @@ a57.foxnews.com
 a652.dscb.akamai.net
 a790.w16.akamai.net
 a90.g.akamai.net
+aads.adblockplus.org
 aatkit.com
 aax-dtb-cf.amazon-adsystem.amazon.com
 aax-dtb-mobile-geo.amazon-adsystem.amazon.com
@@ -312,7 +313,7 @@ accounts.flipboard.com
 accounts.google.com
 accounts.idmapper.api.playstation.com
 accounts.mobisystems.com
-accounts.nvgs.nvidia.com
+accounts.nvgs.nvidia.cn.edgesuite.net
 accounts.pixiv.net
 accounts.snapchat.com
 accounts.soundcloud.com
@@ -568,6 +569,7 @@ alternativeto.net
 am-api.snapchat.com
 am.coinbase.com
 amap.com
+amap.jwpcdn.com
 amauthprd.samsungcloudsolution.com
 amazon.ac
 amazon.academy
@@ -621,7 +623,6 @@ amazon.bio
 amazon.black
 amazon.blackfriday
 amazon.blog
-amazon.blue
 amazon.boats
 amazon.bot
 amazon.boutique
@@ -724,7 +725,6 @@ amazon.domains
 amazon.download
 amazon.durban
 amazon.earth
-amazon.ec
 amazon.education
 amazon.ee
 amazon.email
@@ -943,7 +943,6 @@ amazon.pet
 amazon.ph
 amazon.photo
 amazon.photography
-amazon.photos
 amazon.physio
 amazon.pics
 amazon.pictures
@@ -1120,6 +1119,7 @@ amazon.yokohama
 amazon.zone
 amazonaws.com
 ambassadors.xbox.com
+amcb.com
 amd.cdn.turner.com
 amd.com
 amdc.m.taobao.com
@@ -1941,7 +1941,7 @@ bigfile.co.kr
 bigfile.mail.naver.com
 biggovernment.breitbart.com
 bighollywood.breitbart.com
-biglistofwebsites.0.client-channel.google.com
+biglistofwebsites.com
 biglobe.ne.jp
 bigthink.com
 bigzipfiles.facebook.com
@@ -2543,6 +2543,7 @@ cds.csx.sony.com
 cds.d2s7q6s2.hwcdn.net
 cds.j3z9t3p6.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
+cdzstatic.com
 ce5.at
 cedexis.net
 cedexispub.cdnetworks.net
@@ -3569,6 +3570,8 @@ dualstack.brightcove.map.fastly.net
 duck.co
 duckdns.org
 duckduckgo.com
+dui88.com
+duiba.com.cn
 duo.nl
 dvb.pandora.xiaomi.com
 dvd.netflix.com
@@ -3591,6 +3594,7 @@ e-learning.huawei.com
 e-recht24.de
 e-words.jp
 e.breitbart.com
+e.com
 e.customeriomail.com
 e.getpocket.com
 e.huawei.com
@@ -4808,6 +4812,7 @@ group-vb.cdn.viber.com
 group.pcbeta.com
 groupon.com
 groups.diigo.com
+groups.googldf.ly
 groups.google.com
 growingio.com
 growth.pusher.com
@@ -6076,6 +6081,7 @@ lt.gravatar.com
 lt45.net
 ltc.cryptopia.co.nz
 lu.api.mega.co.nz
+lublin.tvp.pakamaitechnologies.com
 lublin.tvp.pl
 luffy.chia-anime.tv
 luyou.360.cn
@@ -6843,6 +6849,7 @@ myunidays.com
 mywot.com
 myxperia.sonymobile.com
 mzstatic.com
+n.blue
 n2s.us
 n6.net
 na1.documents.adobe.com
@@ -8241,6 +8248,7 @@ s3.us-east-2.amazonaws.com
 s3.vuukle.com
 s4.exacttarget.com
 s4.symcb.com
+s4.syzon.ec
 s5.exacttarget.com
 s5.symcb.com
 s50.exacttarget.com
@@ -9444,6 +9452,7 @@ tiles.services.mozilla.com
 tiles.xbox.com
 time.android.com
 time.com
+time.commazon.photos
 time.samsungcloudsolution.com
 timeline.line.me
 timesofindia.indiatimes.com
@@ -9929,6 +9938,7 @@ v20.vortex-win.data.microsoft.com
 v2assets.zopim.io
 v3.antpool.com
 v4.download.windowsupdate.com
+v6lvs.com
 v7.stats.avast.com
 v7event.stats.avast.com
 va.gov

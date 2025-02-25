@@ -6,14 +6,17 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-02-24
+# Last update: 2025-02-25
 #
-# Number of domains: 103316
+# Number of domains: 103306
 #
 #=====================================
+0.0.0.0  0.0d.video.yximgs.com
+0.0.0.0  0.0ptotechnik.zeiss.com
 0.0.0.0  0.myikas.com
 0.0.0.0  0.net.easyjet.com
 0.0.0.0  0.r.msn.com
+0.0.0.0  0.ted.com
 0.0.0.0  0.up.qingdaonews.com
 0.0.0.0  0000130.com
 0.0.0.0  000dn.com
@@ -472,6 +475,7 @@
 0.0.0.0  16iis7i2p.de
 0.0.0.0  16m.cc
 0.0.0.0  16pr72tb5.de
+0.0.0.0  17.com
 0.0.0.0  17.huanqiu.com
 0.0.0.0  17022993.xyz
 0.0.0.0  1704598c25.com
@@ -2350,7 +2354,6 @@
 0.0.0.0  8wtkfxiss1o2.com
 0.0.0.0  8x055.com
 0.0.0.0  8xbe52.com
-0.0.0.0  8xbet.cc
 0.0.0.0  8xbet.com
 0.0.0.0  8xbet.fun
 0.0.0.0  8xbet.games
@@ -10174,7 +10177,6 @@
 0.0.0.0  ahsxot.meaningfulbeauty.com
 0.0.0.0  ahtfzhs.xyz
 0.0.0.0  ahtigames.com
-0.0.0.0  ahtribune.com
 0.0.0.0  ahuvjy.design-market.fr
 0.0.0.0  ahvradotws.com
 0.0.0.0  ahwbedsd.xyz
@@ -16765,7 +16767,6 @@
 0.0.0.0  biopsyheadless.com
 0.0.0.0  biopsyintruder.com
 0.0.0.0  biotech.news
-0.0.0.0  bipartisanreport.com
 0.0.0.0  bipeedsoubsie.xyz
 0.0.0.0  bipgialxcfvad.xyz
 0.0.0.0  biphic.com
@@ -20424,7 +20425,6 @@
 0.0.0.0  channel18news.com
 0.0.0.0  channel22news.com
 0.0.0.0  channel23news.com
-0.0.0.0  channel24news.com
 0.0.0.0  channel28news.com
 0.0.0.0  channel33news.com
 0.0.0.0  channel34news.com
@@ -22058,7 +22058,6 @@
 0.0.0.0  collab9.actonservice.com
 0.0.0.0  collaborate.blackboard.com
 0.0.0.0  collapse.news
-0.0.0.0  collapsifornia.com
 0.0.0.0  collarchefrage.com
 0.0.0.0  collarity.com
 0.0.0.0  collect-ap2.attraqt.io
@@ -31905,7 +31904,7 @@
 0.0.0.0  email-campmon.branch.rocks
 0.0.0.0  email-cheetahmail.branch.rocks
 0.0.0.0  email-click-test-for-branch.vts.com
-0.0.0.0  email-clicks.vts.com
+0.0.0.0  email-clicks.vtcollapsifornia.com
 0.0.0.0  email-cm.branch.rocks
 0.0.0.0  email-cm.jll-mena.com
 0.0.0.0  email-cm.jll.ca
@@ -42618,7 +42617,7 @@
 0.0.0.0  images.go.metagenics.com
 0.0.0.0  images.go.mongodb.com
 0.0.0.0  images.go.na.sage.com
-0.0.0.0  images.go.optotechnik.zeiss.com
+0.0.0.0  images.go.omicatholictribune.com
 0.0.0.0  images.go.pelican.com
 0.0.0.0  images.go.pioneer.com
 0.0.0.0  images.go.siriusdecisions.com
@@ -45455,7 +45454,6 @@
 0.0.0.0  ixafr.com
 0.0.0.0  ixav-cse.avlyun.com
 0.0.0.0  ixbua.xyz
-0.0.0.0  ixi888.online
 0.0.0.0  ixia-elq.keysight.com
 0.0.0.0  ixia-lp.keysight.com
 0.0.0.0  ixiaa.com
@@ -47317,7 +47315,6 @@
 0.0.0.0  kampanjer.yxvisa.no
 0.0.0.0  kampyle.com
 0.0.0.0  kanclick.com
-0.0.0.0  kanecountyreporter.com
 0.0.0.0  kang08.com
 0.0.0.0  kangaroohiccups.com
 0.0.0.0  kanglingjiu.com
@@ -48133,6 +48130,7 @@
 0.0.0.0  krxd.net
 0.0.0.0  kryeia.xyz
 0.0.0.0  ks.bet
+0.0.0.0  ks.com
 0.0.0.0  ks.ferlytc.com
 0.0.0.0  ks.pull.yximgs.com
 0.0.0.0  ksamarketing.sedgwick.com
@@ -52610,7 +52608,6 @@
 0.0.0.0  m.l620e.cn
 0.0.0.0  m.l93stb.cn
 0.0.0.0  m.la71f.cn
-0.0.0.0  m.lactive.tc.skysrt.com
 0.0.0.0  m.laigame7.net
 0.0.0.0  m.lancedu.com
 0.0.0.0  m.lanseshuba.com
@@ -52631,6 +52628,7 @@
 0.0.0.0  m.lisla.cn
 0.0.0.0  m.lisln.cn
 0.0.0.0  m.lixi88.info
+0.0.0.0  m.lixi888.online
 0.0.0.0  m.lixi88vip.com
 0.0.0.0  m.ljuer.com
 0.0.0.0  m.llaoz.com
@@ -53299,7 +53297,6 @@
 0.0.0.0  madeupadoption.com
 0.0.0.0  madeupdependant.com
 0.0.0.0  madhouse.cn
-0.0.0.0  madisoncountyguide.com
 0.0.0.0  madisoncres.actonservice.com
 0.0.0.0  madisonrecord.com
 0.0.0.0  madisonreporter.com
@@ -57842,7 +57839,6 @@
 0.0.0.0  mibusinessdaily.com
 0.0.0.0  micalcoveningsp.org
 0.0.0.0  micapitolnews.com
-0.0.0.0  micatholictribune.com
 0.0.0.0  micghiga2n7ahjnnsar0fbor.com
 0.0.0.0  michealmoyite.com
 0.0.0.0  michiganrobotflower.com
@@ -58473,7 +58469,7 @@
 0.0.0.0  mo.tsnsrix.cn
 0.0.0.0  mo.wajsa.com
 0.0.0.0  mo.zdceaa.cn
-0.0.0.0  mo.zsyse.top
+0.0.0.0  mo.zsysemunciereporter.com
 0.0.0.0  mo3i5n46.de
 0.0.0.0  moa.mediaoutcast.com
 0.0.0.0  moad.cn
@@ -59329,7 +59325,6 @@
 0.0.0.0  mumulian.com
 0.0.0.0  munchakhlame.top
 0.0.0.0  munchkin.marketo.net
-0.0.0.0  munciereporter.com
 0.0.0.0  mundanenail.com
 0.0.0.0  mundanepollution.com
 0.0.0.0  muni360.com
@@ -60597,7 +60592,7 @@
 0.0.0.0  newsnet.in.ua
 0.0.0.0  newsnourish.com
 0.0.0.0  newsnow.co.za
-0.0.0.0  newsnow17.com
+0.0.0.0  newsnow.top
 0.0.0.0  newspage.xilu.com
 0.0.0.0  newspapermeaningless.com
 0.0.0.0  newsparody.com
@@ -62777,6 +62772,7 @@
 0.0.0.0  on-push.com
 0.0.0.0  on.allposters.com
 0.0.0.0  on.art.com
+0.0.0.0  on.com
 0.0.0.0  on.dextra.ch
 0.0.0.0  on.hellostake.com
 0.0.0.0  on.leagueapps.com
@@ -67112,7 +67108,6 @@
 0.0.0.0  primebet.com.mt
 0.0.0.0  primedice.com
 0.0.0.0  primedirect.net
-0.0.0.0  primeslots.com
 0.0.0.0  primetag.net
 0.0.0.0  primevalstork.com
 0.0.0.0  primis-amp.tech
@@ -75519,7 +75514,7 @@
 0.0.0.0  sheeta.nrj-play.fr
 0.0.0.0  sheetvibe.com
 0.0.0.0  sheideal.com
-0.0.0.0  shelbycountytimes.com
+0.0.0.0  shelbycountytimeactive.tc.skysrt.com
 0.0.0.0  shelbypublishing.actonservice.com
 0.0.0.0  shelbyreporter.com
 0.0.0.0  shelbyreview.com
@@ -85589,7 +85584,6 @@
 0.0.0.0  taisum.ac
 0.0.0.0  taisum.co
 0.0.0.0  taisum.io
-0.0.0.0  taisum1.club
 0.0.0.0  taisum2.com
 0.0.0.0  taisun52.fun
 0.0.0.0  taisunwin.live
@@ -92150,7 +92144,7 @@
 0.0.0.0  udr26c.cn
 0.0.0.0  udr9.livera.nl
 0.0.0.0  udrig.com
-0.0.0.0  udrnks.vedder-vedder.com
+0.0.0.0  udrnks.vedder-vedder.ahtribune.com
 0.0.0.0  udrvvx.kabum.com.br
 0.0.0.0  udsgty.alkosto.com
 0.0.0.0  udswai.xyz
@@ -92779,7 +92773,6 @@
 0.0.0.0  unta.cn
 0.0.0.0  untackreviler.com
 0.0.0.0  untho.de
-0.0.0.0  untidyquestion.com
 0.0.0.0  untidyrice.com
 0.0.0.0  untidyseparatelyintroduce.com
 0.0.0.0  untiedecide.com
@@ -93517,7 +93510,7 @@
 0.0.0.0  v2html.atm.youku.com
 0.0.0.0  v2mi.gdt.qq.com
 0.0.0.0  v3-ad.ixigua.com
-0.0.0.0  v3-ad.video.yximgs.com
+0.0.0.0  v3-adisoncountyguide.com
 0.0.0.0  v3-dc-ad.ixigua.com
 0.0.0.0  v3.cnzz.com
 0.0.0.0  v3.gdt.qq.com
@@ -94407,7 +94400,7 @@
 0.0.0.0  visfirst.com
 0.0.0.0  visiads.com
 0.0.0.0  visibility-stats.com
-0.0.0.0  visibilitycrochetreflected.com
+0.0.0.0  visibilitycrochetreflecort.com
 0.0.0.0  visibleevil.com
 0.0.0.0  visiblegains.com
 0.0.0.0  visiblejoseph.com
@@ -94474,7 +94467,7 @@
 0.0.0.0  visitswigspittle.com
 0.0.0.0  visitweb.com
 0.0.0.0  visma.e-conomic.dk
-0.0.0.0  vismaturva.visma.fi
+0.0.0.0  vismaturva.visma.fchannel24news.com
 0.0.0.0  visor.sberbank.ru
 0.0.0.0  vista.tgbus.com
 0.0.0.0  vista.tgbusdata.cn
@@ -97168,7 +97161,7 @@
 0.0.0.0  wordc.ga
 0.0.0.0  wordego.com
 0.0.0.0  wordfence.me
-0.0.0.0  wordmonetize.com
+0.0.0.0  wordmonetize.canecountyreporter.com
 0.0.0.0  wordpersonify.com
 0.0.0.0  wordsnought.com
 0.0.0.0  wordyhall.pro
@@ -98426,7 +98419,6 @@
 0.0.0.0  www.completesportsbetting.com.au
 0.0.0.0  www.conservativeinfidel.com
 0.0.0.0  www.conservativeoutfitters.com
-0.0.0.0  www.contorabet.com
 0.0.0.0  www.cooguo.com
 0.0.0.0  www.coolbet.com
 0.0.0.0  www.coolppa.cn
@@ -98967,7 +98959,6 @@
 0.0.0.0  www.i9bet106.com
 0.0.0.0  www.i9bet107.com
 0.0.0.0  www.i9bet108.com
-0.0.0.0  www.i9bet109.com
 0.0.0.0  www.i9bet111.com
 0.0.0.0  www.i9bet124.com
 0.0.0.0  www.i9bet145.com
@@ -99723,7 +99714,6 @@
 0.0.0.0  www.ridiculously.com
 0.0.0.0  www.ridika.com
 0.0.0.0  www.rik.win
-0.0.0.0  www.rikstoto.no
 0.0.0.0  www.rikvipclub.us
 0.0.0.0  www.rivalo.com
 0.0.0.0  www.rizk.com
