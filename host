@@ -6,11 +6,13 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-02-27
+# Last update: 2025-02-28
 #
-# Number of domains: 103563
+# Number of domains: 103542
 #
 #=====================================
+0.0.0.0  0.0.0.com
+0.0.0.0  0.0.0.rvices.social.microsoft.com
 0.0.0.0  0.myikas.com
 0.0.0.0  0.net.easyjet.com
 0.0.0.0  0.r.msn.com
@@ -5121,7 +5123,6 @@
 0.0.0.0  a45500.actonservice.com
 0.0.0.0  a45504.actonservice.com
 0.0.0.0  a45508.actonservice.com
-0.0.0.0  a45513.actonservice.com
 0.0.0.0  a45514.actonservice.com
 0.0.0.0  a45519.actonservice.com
 0.0.0.0  a45520.actonservice.com
@@ -7381,7 +7382,6 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
-0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -8636,7 +8636,6 @@
 0.0.0.0  adobeanalytics.medline.com
 0.0.0.0  adobeanalytics.mlaglobal.com
 0.0.0.0  adobeanalytics.populusgroup.com
-0.0.0.0  adobeanalytics.serveone.co.kr
 0.0.0.0  adobeanalytics.teksystems.com
 0.0.0.0  adobeanalytics.vice.com
 0.0.0.0  adobeedge.morganstanley.com
@@ -16821,7 +16820,6 @@
 0.0.0.0  bit-ad.com
 0.0.0.0  bit.beformance.com
 0.0.0.0  bitbeat7.com
-0.0.0.0  bitclub.network
 0.0.0.0  bitclubnetwork.com
 0.0.0.0  bitcoadz.io
 0.0.0.0  bitcoin-cashcard.com
@@ -28597,7 +28595,6 @@
 0.0.0.0  dl-test.furni-shop.com
 0.0.0.0  dl-test.hadaaya.com
 0.0.0.0  dl-test.myathath.com
-0.0.0.0  dl-test.rivafashion.com
 0.0.0.0  dl-vip.bav.baidu.com
 0.0.0.0  dl-vip.pcfaster.baidu.co.th
 0.0.0.0  dl.1003b.56a.com
@@ -31529,7 +31526,6 @@
 0.0.0.0  ehxyz.com
 0.0.0.0  ei-api.testlb-gwy.easyjet.com.edgekey.net.easyjet.com
 0.0.0.0  ei.cnzz.com
-0.0.0.0  ei1s7b.cn
 0.0.0.0  ei7.icu
 0.0.0.0  eib2.cc
 0.0.0.0  eicyds.qoo10.jp
@@ -32367,7 +32363,6 @@
 0.0.0.0  endorsementpsychicwry.com
 0.0.0.0  endorsesmelly.com
 0.0.0.0  endowmentoverhangutmost.com
-0.0.0.0  endream.buzz
 0.0.0.0  endurablebulb.com
 0.0.0.0  endurableshop.com
 0.0.0.0  endurancetransmitted.com
@@ -33790,7 +33785,6 @@
 0.0.0.0  ezstat.ru
 0.0.0.0  ezstreetsports.com
 0.0.0.0  ezuhbd.industrialdiscount.it
-0.0.0.0  ezvjys.belezanaweb.com.br
 0.0.0.0  ezxevghchjltrm.com
 0.0.0.0  ezyenrwcmo.com
 0.0.0.0  ezytrack.com
@@ -41818,7 +41812,7 @@
 0.0.0.0  i.zzb6.cn
 0.0.0.0  i0.letvimg.com
 0.0.0.0  i0001.clarodrive.com
-0.0.0.0  i1.services.social.microsoft.com
+0.0.0.0  i1.sentorabet.com
 0.0.0.0  i1.services.social.microsoft.com.nsatc.net
 0.0.0.0  i2.akjunshi.com
 0.0.0.0  i218435.net
@@ -43827,7 +43821,6 @@
 0.0.0.0  info.edb.gov.sg
 0.0.0.0  info.edriving.com
 0.0.0.0  info.edtrainingcenter.com
-0.0.0.0  info.eecoonline.com
 0.0.0.0  info.eedinc.com
 0.0.0.0  info.elba.at
 0.0.0.0  info.electrifai.net
@@ -54322,7 +54315,6 @@
 0.0.0.0  marketing.enhancedvision.com
 0.0.0.0  marketing.enrichmentjourneys.com
 0.0.0.0  marketing.enterprise-selling.com
-0.0.0.0  marketing.enterprisedb.com
 0.0.0.0  marketing.entrustinc.com
 0.0.0.0  marketing.envisionpackaging.com
 0.0.0.0  marketing.envylabs.com
@@ -57176,7 +57168,6 @@
 0.0.0.0  metrics.mhi.com
 0.0.0.0  metrics.mhn.com
 0.0.0.0  metrics.mhngs.com
-0.0.0.0  metrics.mibcookies.rbs.com
 0.0.0.0  metrics.midatlantic.aaa.com
 0.0.0.0  metrics.midwestliving.com
 0.0.0.0  metrics.miketheknight.com
@@ -59898,7 +59889,6 @@
 0.0.0.0  n2s.co.kr
 0.0.0.0  n2wqmr4lmaummar.xyz
 0.0.0.0  n3567.com
-0.0.0.0  n367tqpdxce0.quine.sh
 0.0.0.0  n49seircas7r.com
 0.0.0.0  n4kb43cl2bsw.creatordrop.com
 0.0.0.0  n4m5x60.com
@@ -63594,7 +63584,6 @@
 0.0.0.0  os.tc
 0.0.0.0  os.vudu.com
 0.0.0.0  os270ojwwxtg.gameflow.tv
-0.0.0.0  osadooffinegold.com
 0.0.0.0  osanyc.xyz
 0.0.0.0  osarmapa.net
 0.0.0.0  osc.hrs.com
@@ -68385,7 +68374,6 @@
 0.0.0.0  pussl3.com
 0.0.0.0  pussl48.com
 0.0.0.0  pussy-pics.net
-0.0.0.0  pussyeatingclub.com
 0.0.0.0  pusure.com
 0.0.0.0  putainalen.com
 0.0.0.0  putanapartners.com
@@ -72103,7 +72091,6 @@
 0.0.0.0  ryke4peep.com
 0.0.0.0  rykeen.duckdns.org
 0.0.0.0  rykhukxt.icu
-0.0.0.0  ryllae.com
 0.0.0.0  rymhet.posudamart.ru
 0.0.0.0  ryminos.com
 0.0.0.0  ryqgdrh.icu
@@ -73925,7 +73912,6 @@
 0.0.0.0  scripts.psyma.com
 0.0.0.0  scripts21.com
 0.0.0.0  scriptshead.com
-0.0.0.0  scriptvealpatronage.com
 0.0.0.0  scritchmaranta.shop
 0.0.0.0  scrollisolation.com
 0.0.0.0  scrollservice.com
@@ -75447,7 +75433,6 @@
 0.0.0.0  shaeian.xyz
 0.0.0.0  shaenphiks.com
 0.0.0.0  shaferglazer.com
-0.0.0.0  shaggyacquaintanceassessment.com
 0.0.0.0  shaggytank.com
 0.0.0.0  shaickox.com
 0.0.0.0  shaidolt.com
@@ -75961,7 +75946,6 @@
 0.0.0.0  shudoufunguptie.net
 0.0.0.0  shughaxiw.com
 0.0.0.0  shuglaursech.com
-0.0.0.0  shugraithou.com
 0.0.0.0  shuiguo.com
 0.0.0.0  shuihulu.com
 0.0.0.0  shuikan.xyz
@@ -76298,7 +76282,6 @@
 0.0.0.0  sitecats.troweprice.com
 0.0.0.0  sitecompass.com
 0.0.0.0  sitecounter.site
-0.0.0.0  sitectlyst.saksfifthavenue.com
 0.0.0.0  sitedataprocessing.com
 0.0.0.0  sitedb.cnzz.com
 0.0.0.0  sitegoto.com
@@ -77705,7 +77688,6 @@
 0.0.0.0  smetrics.examinebiosimilars.com
 0.0.0.0  smetrics.experian.co.uk
 0.0.0.0  smetrics.expoeast.com
-0.0.0.0  smetrics.exposehcm.com
 0.0.0.0  smetrics.expowest.com
 0.0.0.0  smetrics.express-scripts.com
 0.0.0.0  smetrics.express.com
@@ -84263,7 +84245,6 @@
 0.0.0.0  superficialsquare.com
 0.0.0.0  superfiliate.com
 0.0.0.0  superfish.com
-0.0.0.0  superfluousexecutivefinch.com
 0.0.0.0  superfolder.net
 0.0.0.0  superfoods.news
 0.0.0.0  superherogoing.com
@@ -86611,6 +86592,7 @@
 0.0.0.0  telemetry.tableausoftware.com
 0.0.0.0  telemetry.tradingview.com
 0.0.0.0  telemetry.urs.microsoft.com
+0.0.0.0  telemetry.urs.microsoftwww.falconbet.com
 0.0.0.0  telemetry.vtex.com
 0.0.0.0  telemetry.webasto.com
 0.0.0.0  telepang.com
@@ -87746,7 +87728,6 @@
 0.0.0.0  tk.prismashop.fr
 0.0.0.0  tk.qare.fr
 0.0.0.0  tk.qobuz.com
-0.0.0.0  tk.rentacar.fr
 0.0.0.0  tk.rimowa.com
 0.0.0.0  tk.salomon.com
 0.0.0.0  tk.santevet.be
@@ -88536,7 +88517,6 @@
 0.0.0.0  tr.asp2063.espmp-nifr.net
 0.0.0.0  tr.asp206k.espmp-agfr.net
 0.0.0.0  tr.asp2070.espmp-aufr.net
-0.0.0.0  tr.asp2075.espmp-nifr.net
 0.0.0.0  tr.asp2076.espmp-pofr.net
 0.0.0.0  tr.asp2077.espmp-nifr.net
 0.0.0.0  tr.asp2078.espmp-nifr.net
@@ -98645,6 +98625,7 @@
 0.0.0.0  www.cnetdirectintl.com
 0.0.0.0  www.cntingyun.com
 0.0.0.0  www.cnzz.com
+0.0.0.0  www.coactive.tc.skysrt.com
 0.0.0.0  www.coastalsportsbook.com
 0.0.0.0  www.coasttocoastam.com
 0.0.0.0  www.cocktailbingo.com
@@ -98660,7 +98641,6 @@
 0.0.0.0  www.completesportsbetting.com.au
 0.0.0.0  www.conservativeinfidel.com
 0.0.0.0  www.conservativeoutfitters.com
-0.0.0.0  www.contorabet.com
 0.0.0.0  www.cooguo.com
 0.0.0.0  www.coolbet.com
 0.0.0.0  www.coolppa.cn
@@ -98931,7 +98911,6 @@
 0.0.0.0  www.faber.de
 0.0.0.0  www.fabet77.net
 0.0.0.0  www.fabet88.net
-0.0.0.0  www.falconbet.com
 0.0.0.0  www.fan-yong.com
 0.0.0.0  www.fancydigital.com.cn
 0.0.0.0  www.fancydmp.com
