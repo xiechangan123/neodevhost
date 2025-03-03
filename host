@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-03-02
+# Last update: 2025-03-03
 #
-# Number of domains: 103961
+# Number of domains: 103962
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -7391,6 +7391,7 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
+0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -60949,7 +60950,7 @@
 0.0.0.0  newsnet.in.ua
 0.0.0.0  newsnourish.com
 0.0.0.0  newsnow.co.za
-0.0.0.0  newsnow17.active.tc.skysrt.com
+0.0.0.0  newsnow17.com
 0.0.0.0  newspage.xilu.com
 0.0.0.0  newspapermeaningless.com
 0.0.0.0  newsparody.com
